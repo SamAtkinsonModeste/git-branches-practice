@@ -9,6 +9,16 @@ const characters = [
 const characterBtn = document.querySelector("#character-btn");
 const characterCard = document.querySelector("#character-card");
 
+const characters = [
+  {
+    character: "Harry Potter",
+    house: "Gryffindor",
+    father: "James Potter",
+    mother: "Lily Potter",
+    pet: " Hedwig",
+  },
+];
+
 function showRandomCharacter() {
   const randomIndex = Math.floor(Math.random() * characters.length);
 
