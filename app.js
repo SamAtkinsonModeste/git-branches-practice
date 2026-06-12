@@ -17,6 +17,13 @@ const characters = [
     mother: "Lily Potter",
     pet: " Hedwig",
   },
+  {
+    character: "Hermione Granger",
+    house: "Gryffindor",
+    father: "Daniel Granger",
+    mother: "Emma Granger",
+    pet: "Crookshanks",
+  },
 ];
 
 function showRandomCharacter() {
