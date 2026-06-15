@@ -24,6 +24,13 @@ const characters = [
     mother: "Emma Granger",
     pet: "Crookshanks",
   },
+  {
+    character: "Luna Lovegood",
+    house: "Ravenclaw",
+    father: "Xenophilius Lovegood",
+    mother: "Pandora Lovegood",
+    pet: "No known pet",
+  },
 ];
 
 function showRandomCharacter() {
