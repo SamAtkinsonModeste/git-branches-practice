@@ -31,6 +31,13 @@ const characters = [
     mother: "Pandora Lovegood",
     pet: "No known pet",
   },
+  {
+    character: "Draco Malfoy",
+    house: "Slytherin",
+    father: "Lucius Malfoy",
+    mother: "Narcissa Malfoy",
+    pet: "Eagle Owl",
+  },
 ];
 
 function showRandomCharacter() {
