@@ -19,6 +19,14 @@ const characters = [
     pet: " Hedwig",
   },
   {
+    character: "Ron Weasley",
+    house: "Gryffindor",
+    wand: "12 inches, ash wood, unicorn hair core (hand-me-down from Charlie Weasley)",
+    father: "Arthur Weasley",
+    mother: "Molly Weasley",
+    pet: "Scabbers",
+  },
+  {
     character: "Hermione Granger",
     house: "Gryffindor",
     wand: "10¾ inches, vine wood, dragon heartstring core",
@@ -65,13 +73,6 @@ const characters = [
     father: "Arthur Weasley",
     mother: "Molly Weasley",
     pet: "Arnold",
-  },
-  {
-    character: "Ron Weasley",
-    house: "Gryffindor",
-    father: "Arthur Weasley",
-    mother: "Molly Weasley",
-    pet: "Scabbers",
   },
 ];
 
