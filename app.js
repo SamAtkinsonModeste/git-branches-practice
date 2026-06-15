@@ -13,6 +13,7 @@ const characters = [
   {
     character: "Harry Potter",
     house: "Gryffindor",
+    wand: "11 inches, holly, phoenix feather core",
     father: "James Potter",
     mother: "Lily Potter",
     pet: " Hedwig",
@@ -20,6 +21,7 @@ const characters = [
   {
     character: "Hermione Granger",
     house: "Gryffindor",
+    wand: "10¾ inches, vine wood, dragon heartstring core",
     father: "Daniel Granger",
     mother: "Emma Granger",
     pet: "Crookshanks",
