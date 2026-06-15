@@ -29,6 +29,7 @@ const characters = [
   {
     character: "Luna Lovegood",
     house: "Ravenclaw",
+    wand: "Unknown (possibly made from a light-colored wood)",
     father: "Xenophilius Lovegood",
     mother: "Pandora Lovegood",
     pet: "No known pet",
@@ -36,6 +37,7 @@ const characters = [
   {
     character: "Draco Malfoy",
     house: "Slytherin",
+    wand: "10 inches, hawthorn, unicorn hair core",
     father: "Lucius Malfoy",
     mother: "Narcissa Malfoy",
     pet: "Eagle Owl",
@@ -43,6 +45,7 @@ const characters = [
   {
     character: "Cho Chang",
     house: "Ravenclaw",
+    wand: "Unknown",
     father: "Unknown",
     mother: "Unknown",
     pet: "Owl",
@@ -50,6 +53,7 @@ const characters = [
   {
     character: "Neville Longbottom",
     house: "Gryffindor",
+    wand: "13 inches, cherry, unicorn hair core",
     father: "Frank Longbottom",
     mother: "Alice Longbottom",
     pet: "Trevor",
@@ -57,6 +61,7 @@ const characters = [
   {
     character: "Ginny Weasley",
     house: "Gryffindor",
+    wand: "Yew wood, unknown length and core",
     father: "Arthur Weasley",
     mother: "Molly Weasley",
     pet: "Arnold",
