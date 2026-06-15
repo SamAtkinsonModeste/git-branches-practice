@@ -38,6 +38,13 @@ const characters = [
     mother: "Narcissa Malfoy",
     pet: "Eagle Owl",
   },
+  {
+    character: "Neville Longbottom",
+    house: "Gryffindor",
+    father: "Frank Longbottom",
+    mother: "Alice Longbottom",
+    pet: "Trevor",
+  },
 ];
 
 function showRandomCharacter() {
