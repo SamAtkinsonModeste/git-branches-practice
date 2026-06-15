@@ -39,6 +39,13 @@ const characters = [
     pet: "Eagle Owl",
   },
   {
+    character: "Cho Chang",
+    house: "Ravenclaw",
+    father: "Unknown",
+    mother: "Unknown",
+    pet: "Owl",
+  },
+  {
     character: "Neville Longbottom",
     house: "Gryffindor",
     father: "Frank Longbottom",
