@@ -24,6 +24,13 @@ const characters = [
     mother: "Emma Granger",
     pet: "Crookshanks",
   },
+  {
+    character: "Ron Weasley",
+    house: "Gryffindor",
+    father: "Arthur Weasley",
+    mother: "Molly Weasley",
+    pet: "Scabbers",
+  },
 ];
 
 function showRandomCharacter() {
