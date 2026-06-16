@@ -1,11 +1,3 @@
-const characters = [
-  "Harry Potter",
-  "Hermione Granger",
-  "Ron Weasley",
-  "Luna Lovegood",
-  "Draco Malfoy",
-];
-
 const characterBtn = document.querySelector("#character-btn");
 const characterCard = document.querySelector("#character-card");
 
@@ -59,7 +51,6 @@ const characterDetails = [
     character: "Cho Chang",
     house: "Ravenclaw",
     wand: "Unknown",
-    patronus: "Swan",
     father: "Unknown",
     mother: "Unknown",
     pet: "Owl",
