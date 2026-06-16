@@ -9,7 +9,7 @@ const characters = [
 const characterBtn = document.querySelector("#character-btn");
 const characterCard = document.querySelector("#character-card");
 
-const characters = [
+const characterDetails = [
   {
     character: "Harry Potter",
     house: "Gryffindor",
