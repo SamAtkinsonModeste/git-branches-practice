@@ -76,9 +76,12 @@ const characterDetails = [
 ];
 
 function showRandomCharacter() {
-  const randomIndex = Math.floor(Math.random() * characters.length);
-
-  characterCard.textContent = characters[randomIndex];
+  const randomIndex = Math.floor(Math.random() * characterDetails.length);
+  const chosenCharacter = characterDetails[randomIndex];
+  characterCard.innerHTML = `Name: ${chosenCharacter.character}<br>
+  House: ${chosenCharacter.house}<br> Wand: ${chosenCharacter.wand}<br>
+  Patronus: ${chosenCharacter.patronus}<br>  Mother: ${chosenCharacter.mother}<br>
+  Pet: ${chosenCharacter.pet}<br>`;
 }
 
 characterBtn.addEventListener("click", showRandomCharacter);
